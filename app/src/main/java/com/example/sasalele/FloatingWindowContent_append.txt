@@ -1,0 +1,182 @@
+
+@Composable
+fun MaterialsPanel(context: Context, onClose: () -> Unit) {
+    val db = remember { AppDatabase.getDatabase(context) }
+    val repository = remember { MaterialRepository(db.materialDao()) }
+    val scope = rememberCoroutineScope()
+
+    LaunchedEffect(Unit) {
+        val materials = kotlinx.coroutines.flow.first(repository.allMaterials)
+        if (materials.isEmpty()) {
+            repository.insertAll(listOf(
+                MaterialEntity(title = "公司介绍", content = "我们是一家提供智能SaaS服务的科技公司...", type = "TEXT"),
+                MaterialEntity(title = "产品报价单", content = "标准版：199/月\n高级版：399/月", type = "TEXT", isFavorite = true),
+                MaterialEntity(title = "宣传海报", content = "https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U", type = "IMAGE")
+            ))
+        }
+    }
+
+    var searchQuery by remember { mutableStateOf("") }
+    val materials by if (searchQuery.isBlank()) {
+        repository.allMaterials.collectAsState(initial = emptyList())
+    } else {
+        repository.searchMaterials(searchQuery).collectAsState(initial = emptyList())
+    }
+
+    Column(modifier = Modifier.fillMaxSize()) {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text("销售物料", fontWeight = FontWeight.Bold, fontSize = 18.sp)
+            TextButton(onClick = onClose) { Text("关闭") }
+        }
+
+        OutlinedTextField(
+            value = searchQuery,
+            onValueChange = { searchQuery = it },
+            modifier = Modifier.fillMaxWidth().padding(bottom = 8.dp),
+            placeholder = { Text("搜索物料...") },
+            singleLine = true
+        )
+
+        LazyColumn(
+            modifier = Modifier.weight(1f),
+            verticalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            items(materials) { material ->
+                Card(
+                    modifier = Modifier.fillMaxWidth(),
+                    colors = CardDefaults.cardColors(containerColor = Color(0xFFF5F5F5))
+                ) {
+                    Column(modifier = Modifier.padding(8.dp)) {
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            horizontalArrangement = Arrangement.SpaceBetween,
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            Text(material.title, fontWeight = FontWeight.Bold)
+                            IconButton(onClick = {
+                                scope.launch {
+                                    repository.update(material.copy(isFavorite = !material.isFavorite))
+                                }
+                            }) {
+                                Icon(
+                                    imageVector = if (material.isFavorite) Icons.Default.Favorite else Icons.Default.FavoriteBorder,
+                                    contentDescription = "Favorite",
+                                    tint = if (material.isFavorite) Color.Red else Color.Gray
+                                )
+                            }
+                        }
+
+                        if (material.type == "IMAGE") {
+                            AsyncImage(
+                                model = material.content,
+                                contentDescription = "Material Image",
+                                modifier = Modifier.fillMaxWidth().height(120.dp).clip(RoundedCornerShape(8.dp)),
+                                contentScale = ContentScale.Crop
+                            )
+                        } else {
+                            Text(material.content, fontSize = 14.sp, maxLines = 3, overflow = TextOverflow.Ellipsis)
+                        }
+
+                        Spacer(modifier = Modifier.height(4.dp))
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            horizontalArrangement = Arrangement.End
+                        ) {
+                            if (material.type == "IMAGE") {
+                                TextButton(
+                                    onClick = {
+                                        val shareIntent = android.content.Intent().apply {
+                                            action = android.content.Intent.ACTION_SEND
+                                            putExtra(android.content.Intent.EXTRA_TEXT, material.content) // For simplicity just sharing URL
+                                            type = "text/plain"
+                                        }
+                                        val chooser = android.content.Intent.createChooser(shareIntent, "分享图片链接")
+                                        chooser.addFlags(android.content.Intent.FLAG_ACTIVITY_NEW_TASK)
+                                        context.startActivity(chooser)
+                                    }
+                                ) {
+                                    Text("分享")
+                                }
+                            } else {
+                                TextButton(
+                                    onClick = {
+                                        val clipboard = context.getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
+                                        val clip = ClipData.newPlainText("material_content", material.content)
+                                        clipboard.setPrimaryClip(clip)
+                                        Toast.makeText(context, "已复制到剪贴板", Toast.LENGTH_SHORT).show()
+                                    }
+                                ) {
+                                    Text("复制")
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@Composable
+fun SettingsPanel(context: Context, onClose: () -> Unit) {
+    val settingsDataStore = remember { SettingsDataStore(context) }
+    val scope = rememberCoroutineScope()
+
+    val autoCopy by settingsDataStore.autoCopyFlow.collectAsState(initial = true)
+    val enableReminders by settingsDataStore.enableRemindersFlow.collectAsState(initial = false)
+    val floatingWindowY by settingsDataStore.floatingWindowYFlow.collectAsState(initial = 0)
+
+    Column(modifier = Modifier.fillMaxSize()) {
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text("设置", fontWeight = FontWeight.Bold, fontSize = 18.sp)
+            TextButton(onClick = onClose) { Text("关闭") }
+        }
+
+        Spacer(modifier = Modifier.height(16.dp))
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text("生成后自动复制")
+            Switch(
+                checked = autoCopy,
+                onCheckedChange = { scope.launch { settingsDataStore.setAutoCopy(it) } }
+            )
+        }
+
+        Spacer(modifier = Modifier.height(8.dp))
+
+        Row(
+            modifier = Modifier.fillMaxWidth(),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text("开启跟进提醒")
+            Switch(
+                checked = enableReminders,
+                onCheckedChange = { scope.launch { settingsDataStore.setEnableReminders(it) } }
+            )
+        }
+
+        Spacer(modifier = Modifier.height(8.dp))
+
+        Column(modifier = Modifier.fillMaxWidth()) {
+            Text("悬浮窗默认 Y 轴位置: $floatingWindowY")
+            Slider(
+                value = floatingWindowY.toFloat(),
+                onValueChange = { scope.launch { settingsDataStore.setFloatingWindowY(it.toInt()) } },
+                valueRange = 0f..1000f
+            )
+        }
+    }
+}
