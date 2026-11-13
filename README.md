@@ -39,6 +39,10 @@ Reviewed historical APKs are preserved separately in the
 Its manifest records original names, actual versions and file hashes; duplicate
 file contents share a release asset. Historical builds are not deployment recommendations.
 
+[Historical source and UI supplement](history-supplement/README.md) preserves
+eight exact historical source files and four original UI hierarchy snapshots.
+Its manifest distinguishes already preserved files from historical versions not found.
+
 Excluded: credentials, signing keys, early probe binaries containing real account
 or customer identity data,
 customer profiles, unreviewed recordings, logs, business materials and private

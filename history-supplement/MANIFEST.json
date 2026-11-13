@@ -1,0 +1,598 @@
+{
+  "schema_version": 1,
+  "path_base": "sasalele-android repository root",
+  "description": "Historical source hashes refer to capture manifest; XML hashes refer to reviewed original files. Null destination means no exact version was found.",
+  "entries": [
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/CaptureFrameValidationTest.kt",
+      "historical_sha256": "867ba8776647f46132ce12393dca41834c25b59a015642a85a9d037f3f15930f",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/CaptureFrameValidationTest.kt",
+      "destination_sha256": "867ba8776647f46132ce12393dca41834c25b59a015642a85a9d037f3f15930f",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/CaptureLifecycleTest.kt",
+      "historical_sha256": "e46f484125ee4c9f02b631f390d058c9e0c26f1d6a393aa1d59b86d0cff66bf2",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/CaptureLifecycleTest.kt",
+      "destination_sha256": "e46f484125ee4c9f02b631f390d058c9e0c26f1d6a393aa1d59b86d0cff66bf2",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/ExampleInstrumentedTest.kt",
+      "historical_sha256": "c5aed1d746a8500627229b1c43a790487b7ce2b592177b6ff24b760f864afc01",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/ExampleInstrumentedTest.kt",
+      "destination_sha256": "c5aed1d746a8500627229b1c43a790487b7ce2b592177b6ff24b760f864afc01",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/ProfileSearchTest.kt",
+      "historical_sha256": "df3b634ffe777f907a3a2af66600d693632e793e1ae59af4ae369d87192b27da",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/ProfileSearchTest.kt",
+      "destination_sha256": "df3b634ffe777f907a3a2af66600d693632e793e1ae59af4ae369d87192b27da",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/RealOcrTest.kt",
+      "historical_sha256": "2b3a6624c4ecf3174d3a79afe408c1c278d86597e00fb19976af0628e631874c",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/RealOcrTest.kt",
+      "destination_sha256": "2b3a6624c4ecf3174d3a79afe408c1c278d86597e00fb19976af0628e631874c",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/ReminderLogicTest.kt",
+      "historical_sha256": "c0d83c609ca5a51b4b8da3d845474989bf06bd3b1a2af9c8457f4e7e7dadfe53",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/ReminderLogicTest.kt",
+      "destination_sha256": "c0d83c609ca5a51b4b8da3d845474989bf06bd3b1a2af9c8457f4e7e7dadfe53",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/SasaleleTests.kt",
+      "historical_sha256": "e000f8d1944bab62ee9277c38620c309a34d40d6823bdd35ab63d29b8ecfad83",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/SasaleleTests.kt",
+      "destination_sha256": "e000f8d1944bab62ee9277c38620c309a34d40d6823bdd35ab63d29b8ecfad83",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/Stage5IntegrationTest.kt",
+      "historical_sha256": "614ad65a77241f3b47b3d64404a55d6644c3c6f39e9016779c37e337fdd0d1b0",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/Stage5IntegrationTest.kt",
+      "destination_sha256": "614ad65a77241f3b47b3d64404a55d6644c3c6f39e9016779c37e337fdd0d1b0",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/androidTest/java/com/example/sasalele/Stage5ProcessRecoveryTest.kt",
+      "historical_sha256": "60ff3688fa1e71a24636d8a1975a5eb09ce2244c43a5e18ad2a5d18964ef18b7",
+      "destination_path": "app/src/androidTest/java/com/example/sasalele/Stage5ProcessRecoveryTest.kt",
+      "destination_sha256": "60ff3688fa1e71a24636d8a1975a5eb09ce2244c43a5e18ad2a5d18964ef18b7",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/AcquisitionUi.kt",
+      "historical_sha256": "6b2e470e4e66886bbc934e6a08f5a5de666241bd546239dabaed497085f8f3e3",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/CapturePermissionActivity.kt",
+      "historical_sha256": "a38ed655f6ba1ec2395746a8e682dcf1a02adea9ac6ab638e5e803dde9282e8e",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/FloatingWindowContent.kt",
+      "historical_sha256": "e245e412893c01e187dcd566146b9c263a7e31e6041dc25d08eed09f5c8552c7",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/FloatingWindowService.kt",
+      "historical_sha256": "6213ac07887093c5391b40b454de9cab87e31cb6ea810dccbea4dd2e97b36c0c",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/ImportProfilesActivity.kt",
+      "historical_sha256": "34d80503d6bf00385cd40083a85a7826aa0c1e5545cd5add9f2f09be4863a766",
+      "destination_path": "app/src/main/java/com/example/sasalele/ImportProfilesActivity.kt",
+      "destination_sha256": "34d80503d6bf00385cd40083a85a7826aa0c1e5545cd5add9f2f09be4863a766",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/MainActivity.kt",
+      "historical_sha256": "371e33cff7144bc177bdbf8f937c1c5a3218ba92fa6e4072d79dd4112edfb187",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/PickRecognitionImageActivity.kt",
+      "historical_sha256": "eec75724713086e0531af10417f960ac5e3bb24d5b11083e1291dbc70a79e5a7",
+      "destination_path": "app/src/main/java/com/example/sasalele/PickRecognitionImageActivity.kt",
+      "destination_sha256": "eec75724713086e0531af10417f960ac5e3bb24d5b11083e1291dbc70a79e5a7",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/RealRecognitionPanel.kt",
+      "historical_sha256": "0c44c4f352770d571d9238d6a4303300e07827c7aa6cb496208e2c74492bb3dc",
+      "destination_path": "app/src/main/java/com/example/sasalele/RealRecognitionPanel.kt",
+      "destination_sha256": "0c44c4f352770d571d9238d6a4303300e07827c7aa6cb496208e2c74492bb3dc",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/ScreenCaptureService.kt",
+      "historical_sha256": "0698a397fcbb26e772f1587a099ef3f37f95630d9857511b5b33c4851390b721",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/ServiceLifecycleOwner.kt",
+      "historical_sha256": "4f232f1279f95712ea01112e5fb77f053be5df3c1f16de31f013cc6659d09feb",
+      "destination_path": "app/src/main/java/com/example/sasalele/ServiceLifecycleOwner.kt",
+      "destination_sha256": "4f232f1279f95712ea01112e5fb77f053be5df3c1f16de31f013cc6659d09feb",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/CaptureSession.kt",
+      "historical_sha256": "169e7a62e30b5b04d1551a12054b77be9875b25903f848a3250b77788066ea35",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/ClientRepository.kt",
+      "historical_sha256": "5dbe1acc87671f5f8691976cb4d249320863e2ece9127008c7c01582ab2b7a74",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/ClientRepository.kt",
+      "destination_sha256": "5dbe1acc87671f5f8691976cb4d249320863e2ece9127008c7c01582ab2b7a74",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/IdentitySamples.kt",
+      "historical_sha256": "419060eb61dc6a62dd5cbc63c44fea04fa2f9306ccb005e2cf8ebdb4dbfae317",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/IdentitySamples.kt",
+      "destination_sha256": "419060eb61dc6a62dd5cbc63c44fea04fa2f9306ccb005e2cf8ebdb4dbfae317",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/ImagePickerBus.kt",
+      "historical_sha256": "423e572c7fbaec4d448e62a05510714cf84a8c19bdb113e540ac035affe9a9bc",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/ImagePickerBus.kt",
+      "destination_sha256": "423e572c7fbaec4d448e62a05510714cf84a8c19bdb113e540ac035affe9a9bc",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/ImageTextRecognizer.kt",
+      "historical_sha256": "b163c0493eb65e360b033e934684784966bfe5d89b3ac00a3a6767f5eded475f",
+      "destination_path": null,
+      "destination_sha256": null,
+      "disposition": "not-found",
+      "source_roots": []
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/MockOcrEngine.kt",
+      "historical_sha256": "46f926715c4afc7625c6352ab921bc14d2a1d8f4757f51ecf979525087486e59",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/MockOcrEngine.kt",
+      "destination_sha256": "46f926715c4afc7625c6352ab921bc14d2a1d8f4757f51ecf979525087486e59",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/ReminderNotifier.kt",
+      "historical_sha256": "73b829d56dfa364e08bae393f7a2e0ee3378f99827a8ff205003c79c08adab89",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/ReminderNotifier.kt",
+      "destination_sha256": "73b829d56dfa364e08bae393f7a2e0ee3378f99827a8ff205003c79c08adab89",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/ReminderRules.kt",
+      "historical_sha256": "252c9aa0795014e99e037dfad9b3b8ebcffdf7fd4915f8d7fc0b4faac4aabe0d",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/ReminderRules.kt",
+      "destination_sha256": "252c9aa0795014e99e037dfad9b3b8ebcffdf7fd4915f8d7fc0b4faac4aabe0d",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/ReminderScheduler.kt",
+      "historical_sha256": "afecefbc4b9f9bc7286ed342e90c01735d6e00174ea27c2078adac19d0c24703",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/ReminderScheduler.kt",
+      "destination_sha256": "afecefbc4b9f9bc7286ed342e90c01735d6e00174ea27c2078adac19d0c24703",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/UnbindScheduler.kt",
+      "historical_sha256": "a2d3a23298117466d49e3fbbce632793889ed85f115137caa7f15dc1c087b2ff",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/UnbindScheduler.kt",
+      "destination_sha256": "a2d3a23298117466d49e3fbbce632793889ed85f115137caa7f15dc1c087b2ff",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/AppDatabase.kt",
+      "historical_sha256": "67544794da87f9c4dd00f47645531030799a6139d9a382c1f4e8d8d8b14b7da6",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/db/AppDatabase.kt",
+      "destination_sha256": "67544794da87f9c4dd00f47645531030799a6139d9a382c1f4e8d8d8b14b7da6",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/GuidanceMessageDao.kt",
+      "historical_sha256": "c568d509244f79df448778e2a5735bc0df447d06a3463cfeae97855ed5c6c7e1",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/db/GuidanceMessageDao.kt",
+      "destination_sha256": "c568d509244f79df448778e2a5735bc0df447d06a3463cfeae97855ed5c6c7e1",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/GuidanceMessageEntity.kt",
+      "historical_sha256": "89e52b80facb769fbe12509f39dcb41b8e632437757561b6050dee6593a2dfe7",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/db/GuidanceMessageEntity.kt",
+      "destination_sha256": "89e52b80facb769fbe12509f39dcb41b8e632437757561b6050dee6593a2dfe7",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/MaterialDao.kt",
+      "historical_sha256": "622b9174a680a31654245f16cdd7cc7703a0d2b8b092524d3016ba7dcb261d0f",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/db/MaterialDao.kt",
+      "destination_sha256": "622b9174a680a31654245f16cdd7cc7703a0d2b8b092524d3016ba7dcb261d0f",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/MaterialEntity.kt",
+      "historical_sha256": "86a7387f3600d9beb5582f988592bb0594f5b5d1e2ee54a196a5cb998a398354",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/db/MaterialEntity.kt",
+      "destination_sha256": "86a7387f3600d9beb5582f988592bb0594f5b5d1e2ee54a196a5cb998a398354",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/ReminderDao.kt",
+      "historical_sha256": "f98ea840b7295a355229e6f1790120212fbf4c74bd794f764da8374fcb24e88d",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/db/ReminderDao.kt",
+      "destination_sha256": "f98ea840b7295a355229e6f1790120212fbf4c74bd794f764da8374fcb24e88d",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/db/ReminderEntity.kt",
+      "historical_sha256": "0147bcda9ed0cb0311c58283e9a50204f87710de4a5ae7971a5023b38d75b94b",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/db/ReminderEntity.kt",
+      "destination_sha256": "0147bcda9ed0cb0311c58283e9a50204f87710de4a5ae7971a5023b38d75b94b",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/preferences/SettingsDataStore.kt",
+      "historical_sha256": "40d6e30bb7e450277ff1d5a760e39ab92f3e3d1f4d1f9f653aae330b3e32e518",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/preferences/SettingsDataStore.kt",
+      "destination_sha256": "40d6e30bb7e450277ff1d5a760e39ab92f3e3d1f4d1f9f653aae330b3e32e518",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/repository/GuidanceRepository.kt",
+      "historical_sha256": "982f6dd0d145b9566a2a46e9b5cc83604f0c86f4286829d32d98394f36f2c074",
+      "destination_path": "app/src/main/java/com/example/sasalele/data/repository/GuidanceRepository.kt",
+      "destination_sha256": "982f6dd0d145b9566a2a46e9b5cc83604f0c86f4286829d32d98394f36f2c074",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/data/repository/MaterialRepository.kt",
+      "historical_sha256": "39db1c38e72ffb45f5d709740189187ad630b0fdd322a74d39d2f73e52aa2201",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/repository/MaterialRepository.kt",
+      "destination_sha256": "39db1c38e72ffb45f5d709740189187ad630b0fdd322a74d39d2f73e52aa2201",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/ui/theme/Color.kt",
+      "historical_sha256": "99a1d647ad53973b7ca5f34a7d5a6acfe29c148f1103aca5e26792c5d759e7f6",
+      "destination_path": "app/src/main/java/com/example/sasalele/ui/theme/Color.kt",
+      "destination_sha256": "99a1d647ad53973b7ca5f34a7d5a6acfe29c148f1103aca5e26792c5d759e7f6",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/ui/theme/Theme.kt",
+      "historical_sha256": "08553037af0d09b2f7c2313f300435872752b4ba6d202d5913348a6efd50afb4",
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/ui/theme/Theme.kt",
+      "destination_sha256": "08553037af0d09b2f7c2313f300435872752b4ba6d202d5913348a6efd50afb4",
+      "disposition": "supplemented-exact",
+      "source_roots": [
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/main/java/com/example/sasalele/ui/theme/Type.kt",
+      "historical_sha256": "66d6dcd259c579c2eedf9d10bcca42dc51fe5d20f8cca693e9418166aacedde0",
+      "destination_path": "app/src/main/java/com/example/sasalele/ui/theme/Type.kt",
+      "destination_sha256": "66d6dcd259c579c2eedf9d10bcca42dc51fe5d20f8cca693e9418166aacedde0",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/test/java/com/example/sasalele/ExampleUnitTest.kt",
+      "historical_sha256": "387f2812d78283f129df9fd2d564e5690ec628a4debbd8420c81469a4138d114",
+      "destination_path": "app/src/test/java/com/example/sasalele/ExampleUnitTest.kt",
+      "destination_sha256": "387f2812d78283f129df9fd2d564e5690ec628a4debbd8420c81469a4138d114",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012",
+        "SASALELE-stage5-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/test/java/com/example/sasalele/HeaderIdentityRulesTest.kt",
+      "historical_sha256": "b60f40a804569517053a7b4a0bdce5c43901ab4eb1b8d75118dc3bf43f64f500",
+      "destination_path": "app/src/test/java/com/example/sasalele/HeaderIdentityRulesTest.kt",
+      "destination_sha256": "b60f40a804569517053a7b4a0bdce5c43901ab4eb1b8d75118dc3bf43f64f500",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "source",
+      "source_path": "app/src/test/java/com/example/sasalele/Stage5RulesTest.kt",
+      "historical_sha256": "dac1dc6859d78603ba2ca07088eb16ec42d3b3899ec9e1363736645681be493e",
+      "destination_path": "app/src/test/java/com/example/sasalele/Stage5RulesTest.kt",
+      "destination_sha256": "dac1dc6859d78603ba2ca07088eb16ec42d3b3899ec9e1363736645681be493e",
+      "disposition": "already-published-exact",
+      "source_roots": [
+        "sasalele-android",
+        "SASALELE",
+        "SASALELE-capture-baseline-20261012"
+      ]
+    },
+    {
+      "kind": "xml",
+      "source_path": "design/ui-experience-20261016/overlay-profile-small.xml",
+      "historical_sha256": "5b91902d7b5b90a7e5c0ca29f1de30a84c649ca8daba141bdf4093e095b7aab2",
+      "destination_path": "history-supplement/xml/design/ui-experience-20261016/overlay-profile-small.xml",
+      "destination_sha256": "5b91902d7b5b90a7e5c0ca29f1de30a84c649ca8daba141bdf4093e095b7aab2",
+      "disposition": "restored-original-copy",
+      "source_roots": [
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "xml",
+      "source_path": "design/ui-experience-20261016/overlay-search-small.xml",
+      "historical_sha256": "366b0a3a34416808b5b1e5d47b2136c9cbe56aa57036a4f15ba0bc86608209b2",
+      "destination_path": "history-supplement/xml/design/ui-experience-20261016/overlay-search-small.xml",
+      "destination_sha256": "366b0a3a34416808b5b1e5d47b2136c9cbe56aa57036a4f15ba0bc86608209b2",
+      "disposition": "restored-original-copy",
+      "source_roots": [
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "xml",
+      "source_path": "docs/evidence/native-ui-v33/followups.xml",
+      "historical_sha256": "fb6bdc083acd284056a561caae13472a88cd12f33ceb5f530ceeddfa6c16325c",
+      "destination_path": "history-supplement/xml/docs/evidence/native-ui-v33/followups.xml",
+      "destination_sha256": "fb6bdc083acd284056a561caae13472a88cd12f33ceb5f530ceeddfa6c16325c",
+      "disposition": "restored-original-copy",
+      "source_roots": [
+        "SASALELE"
+      ]
+    },
+    {
+      "kind": "xml",
+      "source_path": "docs/evidence/native-ui-v33/settings.xml",
+      "historical_sha256": "ea211a3289113cbeaa9623470b195f2ad37ea8d4e69203d9c744ec227cbfc15b",
+      "destination_path": "history-supplement/xml/docs/evidence/native-ui-v33/settings.xml",
+      "destination_sha256": "ea211a3289113cbeaa9623470b195f2ad37ea8d4e69203d9c744ec227cbfc15b",
+      "disposition": "restored-original-copy",
+      "source_roots": [
+        "SASALELE"
+      ]
+    }
+  ]
+}
