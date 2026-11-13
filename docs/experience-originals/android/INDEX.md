@@ -1,0 +1,39 @@
+# Android 工程经验原文索引
+
+本目录收录审计清单第一节的 30 份 Android 项目叙述文档，保留源项目相对层级。全部为逐字节原文，未发现需剔除的实际客户正文或秘密值；业务术语、路径、版本、数量及工程经验均保留。历史记载不代表当前系统状态。原有导出版未覆盖。
+
+逐文件源路径、目标路径、SHA-256、处理方式与原因见 [manifest.json](manifest.json)。
+
+## 文件清单
+
+- [第五阶段交付报告-20261012.md](%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E4%BA%A4%E4%BB%98%E6%8A%A5%E5%91%8A-20261012.md)
+- [顶栏名称定位修复交付-20261015.md](%E9%A1%B6%E6%A0%8F%E5%90%8D%E7%A7%B0%E5%AE%9A%E4%BD%8D%E4%BF%AE%E5%A4%8D%E4%BA%A4%E4%BB%98-20261015.md)
+- [截图授权后无反馈排查-20261015.md](%E6%88%AA%E5%9B%BE%E6%8E%88%E6%9D%83%E5%90%8E%E6%97%A0%E5%8F%8D%E9%A6%88%E6%8E%92%E6%9F%A5-20261015.md)
+- [截图诊断持久记录修正-20261015.md](%E6%88%AA%E5%9B%BE%E8%AF%8A%E6%96%AD%E6%8C%81%E4%B9%85%E8%AE%B0%E5%BD%95%E4%BF%AE%E6%AD%A3-20261015.md)
+- [界面验收记录-20261012.md](%E7%95%8C%E9%9D%A2%E9%AA%8C%E6%94%B6%E8%AE%B0%E5%BD%95-20261012.md)
+- [空白首帧与截图保存错误排查-20261015.md](%E7%A9%BA%E7%99%BD%E9%A6%96%E5%B8%A7%E4%B8%8E%E6%88%AA%E5%9B%BE%E4%BF%9D%E5%AD%98%E9%94%99%E8%AF%AF%E6%8E%92%E6%9F%A5-20261015.md)
+- [空白帧后丢帧窗口修正-20261015.md](%E7%A9%BA%E7%99%BD%E5%B8%A7%E5%90%8E%E4%B8%A2%E5%B8%A7%E7%AA%97%E5%8F%A3%E4%BF%AE%E6%AD%A3-20261015.md)
+- [全量画像搜索与直接截屏交付报告-20261012.md](%E5%85%A8%E9%87%8F%E7%94%BB%E5%83%8F%E6%90%9C%E7%B4%A2%E4%B8%8E%E7%9B%B4%E6%8E%A5%E6%88%AA%E5%B1%8F%E4%BA%A4%E4%BB%98%E6%8A%A5%E5%91%8A-20261012.md)
+- [首批销售标准实施记录-20261013.md](%E9%A6%96%E6%89%B9%E9%94%80%E5%94%AE%E6%A0%87%E5%87%86%E5%AE%9E%E6%96%BD%E8%AE%B0%E5%BD%95-20261013.md)
+- [验收报告-20261012.md](%E9%AA%8C%E6%94%B6%E6%8A%A5%E5%91%8A-20261012.md)
+- [真机安装与验证步骤-20261014.md](%E7%9C%9F%E6%9C%BA%E5%AE%89%E8%A3%85%E4%B8%8E%E9%AA%8C%E8%AF%81%E6%AD%A5%E9%AA%A4-20261014.md)
+- [真实图片识别接入报告-20261012.md](%E7%9C%9F%E5%AE%9E%E5%9B%BE%E7%89%87%E8%AF%86%E5%88%AB%E6%8E%A5%E5%85%A5%E6%8A%A5%E5%91%8A-20261012.md)
+- [真实业务接入交付报告-20261013.md](%E7%9C%9F%E5%AE%9E%E4%B8%9A%E5%8A%A1%E6%8E%A5%E5%85%A5%E4%BA%A4%E4%BB%98%E6%8A%A5%E5%91%8A-20261013.md)
+- [正式包启动闪退修复-20261015.md](%E6%AD%A3%E5%BC%8F%E5%8C%85%E5%90%AF%E5%8A%A8%E9%97%AA%E9%80%80%E4%BF%AE%E5%A4%8D-20261015.md)
+- [正式APK交付记录-20261014.md](%E6%AD%A3%E5%BC%8FAPK%E4%BA%A4%E4%BB%98%E8%AE%B0%E5%BD%95-20261014.md)
+- [BASELINE-v25.md](BASELINE-v25.md)
+- [UI改造清单-20261016.md](UI%E6%94%B9%E9%80%A0%E6%B8%85%E5%8D%95-20261016.md)
+- [UI现状评审-20261015.md](UI%E7%8E%B0%E7%8A%B6%E8%AF%84%E5%AE%A1-20261015.md)
+- [docs/画像JSON导入格式.md](docs/%E7%94%BB%E5%83%8FJSON%E5%AF%BC%E5%85%A5%E6%A0%BC%E5%BC%8F.md)
+- [docs/CUSTOMER-IDENTIFICATION-V34.md](docs/CUSTOMER-IDENTIFICATION-V34.md)
+- [docs/NATIVE-UI-V31-IMPLEMENTATION.md](docs/NATIVE-UI-V31-IMPLEMENTATION.md)
+- [docs/NATIVE-UI-V32-TRANSITION.md](docs/NATIVE-UI-V32-TRANSITION.md)
+- [docs/NATIVE-UI-V33-RESTORE.md](docs/NATIVE-UI-V33-RESTORE.md)
+- [docs/NATIVE-UI-V36-THEME-DRAG.md](docs/NATIVE-UI-V36-THEME-DRAG.md)
+- [docs/SOURCE-CHECKPOINT-20261104.md](docs/SOURCE-CHECKPOINT-20261104.md)
+- [.agent/业务数据接入与交互决定-20261012.md](.agent/%E4%B8%9A%E5%8A%A1%E6%95%B0%E6%8D%AE%E6%8E%A5%E5%85%A5%E4%B8%8E%E4%BA%A4%E4%BA%92%E5%86%B3%E5%AE%9A-20261012.md)
+- [.agent/plan.md](.agent/plan.md)
+- [.agent/sasalele_dev_plan_stage5.md](.agent/sasalele_dev_plan_stage5.md)
+- [.agent/stage5-review-codex.md](.agent/stage5-review-codex.md)
+- [private/screen-protection-audit-20261015/核查记录.md](private/screen-protection-audit-20261015/%E6%A0%B8%E6%9F%A5%E8%AE%B0%E5%BD%95.md)
+

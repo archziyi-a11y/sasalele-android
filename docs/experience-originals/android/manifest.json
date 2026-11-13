@@ -1,0 +1,242 @@
+[
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/第五阶段交付报告-20261012.md",
+    "target": "docs/experience-originals/android/第五阶段交付报告-20261012.md",
+    "source_sha256": "400b7c9381ef8896ddc840dce5a609604c06ec791af9cdb019689b73cc03a2f2",
+    "target_sha256": "400b7c9381ef8896ddc840dce5a609604c06ec791af9cdb019689b73cc03a2f2",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/顶栏名称定位修复交付-20261015.md",
+    "target": "docs/experience-originals/android/顶栏名称定位修复交付-20261015.md",
+    "source_sha256": "83a0933bce690cee2a07d4c84e95d84d1c05b4690504fda7c09293f339cb8dd8",
+    "target_sha256": "83a0933bce690cee2a07d4c84e95d84d1c05b4690504fda7c09293f339cb8dd8",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/截图授权后无反馈排查-20261015.md",
+    "target": "docs/experience-originals/android/截图授权后无反馈排查-20261015.md",
+    "source_sha256": "d514f7118ef906f911a25f90b1787a55b5cb46d230e33114be4813332107e0a3",
+    "target_sha256": "d514f7118ef906f911a25f90b1787a55b5cb46d230e33114be4813332107e0a3",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/截图诊断持久记录修正-20261015.md",
+    "target": "docs/experience-originals/android/截图诊断持久记录修正-20261015.md",
+    "source_sha256": "3c397b143c13f89276613de61f91c5e61b85e333daa46b9af97ed9a7e69f5437",
+    "target_sha256": "3c397b143c13f89276613de61f91c5e61b85e333daa46b9af97ed9a7e69f5437",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/界面验收记录-20261012.md",
+    "target": "docs/experience-originals/android/界面验收记录-20261012.md",
+    "source_sha256": "30924dade62e38454ca44bd8bdaeea1a190a6e69cc4d9c65e9ced09235663022",
+    "target_sha256": "30924dade62e38454ca44bd8bdaeea1a190a6e69cc4d9c65e9ced09235663022",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/空白首帧与截图保存错误排查-20261015.md",
+    "target": "docs/experience-originals/android/空白首帧与截图保存错误排查-20261015.md",
+    "source_sha256": "cb8717183b45561f9b30cdbebefaecfc1a3de2025281004cc7bcb0f6046260d1",
+    "target_sha256": "cb8717183b45561f9b30cdbebefaecfc1a3de2025281004cc7bcb0f6046260d1",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/空白帧后丢帧窗口修正-20261015.md",
+    "target": "docs/experience-originals/android/空白帧后丢帧窗口修正-20261015.md",
+    "source_sha256": "26634781590df0fb2c111470fe4fc3949df31dceec387caa5c2fe0cba6203fec",
+    "target_sha256": "26634781590df0fb2c111470fe4fc3949df31dceec387caa5c2fe0cba6203fec",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/全量画像搜索与直接截屏交付报告-20261012.md",
+    "target": "docs/experience-originals/android/全量画像搜索与直接截屏交付报告-20261012.md",
+    "source_sha256": "0037875bc1e74dce4998c7db6939f19656a9354db7f8375c79e8193e2c074a04",
+    "target_sha256": "0037875bc1e74dce4998c7db6939f19656a9354db7f8375c79e8193e2c074a04",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/首批销售标准实施记录-20261013.md",
+    "target": "docs/experience-originals/android/首批销售标准实施记录-20261013.md",
+    "source_sha256": "d60f286c4d261255e8a9071fdef14df545b57ff826fec78a6cff3261f1e8850a",
+    "target_sha256": "d60f286c4d261255e8a9071fdef14df545b57ff826fec78a6cff3261f1e8850a",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/验收报告-20261012.md",
+    "target": "docs/experience-originals/android/验收报告-20261012.md",
+    "source_sha256": "d0715d9ea3b2e72a96561eb7cf638966d4a8c09c6953373dfa2dbb0e219a1a5a",
+    "target_sha256": "d0715d9ea3b2e72a96561eb7cf638966d4a8c09c6953373dfa2dbb0e219a1a5a",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/真机安装与验证步骤-20261014.md",
+    "target": "docs/experience-originals/android/真机安装与验证步骤-20261014.md",
+    "source_sha256": "4f9f23a3f5532a343a3d8a613959ea540119b5377f0b227cdac579f410e634d3",
+    "target_sha256": "4f9f23a3f5532a343a3d8a613959ea540119b5377f0b227cdac579f410e634d3",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/真实图片识别接入报告-20261012.md",
+    "target": "docs/experience-originals/android/真实图片识别接入报告-20261012.md",
+    "source_sha256": "2d779e15c0ce70c2e1e28f5f43623d07d443e3d67d7d3c286ff42bf3dbcb44a3",
+    "target_sha256": "2d779e15c0ce70c2e1e28f5f43623d07d443e3d67d7d3c286ff42bf3dbcb44a3",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/真实业务接入交付报告-20261013.md",
+    "target": "docs/experience-originals/android/真实业务接入交付报告-20261013.md",
+    "source_sha256": "650f347d958ee15a6598b1f9fa90a0a231d2984da1245f7af2b48c54f5af408e",
+    "target_sha256": "650f347d958ee15a6598b1f9fa90a0a231d2984da1245f7af2b48c54f5af408e",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/正式包启动闪退修复-20261015.md",
+    "target": "docs/experience-originals/android/正式包启动闪退修复-20261015.md",
+    "source_sha256": "330a7363c0490be4a31badf20f9e98c381483d69756f86e90f9e0723e8193495",
+    "target_sha256": "330a7363c0490be4a31badf20f9e98c381483d69756f86e90f9e0723e8193495",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/正式APK交付记录-20261014.md",
+    "target": "docs/experience-originals/android/正式APK交付记录-20261014.md",
+    "source_sha256": "e578a5bf3f9a3256c811e1ef506b40c0fd5a6b29ce459fab84d6d8e7d2eaea7e",
+    "target_sha256": "e578a5bf3f9a3256c811e1ef506b40c0fd5a6b29ce459fab84d6d8e7d2eaea7e",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/BASELINE-v25.md",
+    "target": "docs/experience-originals/android/BASELINE-v25.md",
+    "source_sha256": "2086046f23233deb99efed1f72021ea88ced1c42a66caa4331a0d529d1be42a8",
+    "target_sha256": "2086046f23233deb99efed1f72021ea88ced1c42a66caa4331a0d529d1be42a8",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/UI改造清单-20261016.md",
+    "target": "docs/experience-originals/android/UI改造清单-20261016.md",
+    "source_sha256": "147c1579ed987b5e9e4f2aed810c020d58d90e1b2943ca09ba2b18d0c8f34075",
+    "target_sha256": "147c1579ed987b5e9e4f2aed810c020d58d90e1b2943ca09ba2b18d0c8f34075",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/UI现状评审-20261015.md",
+    "target": "docs/experience-originals/android/UI现状评审-20261015.md",
+    "source_sha256": "68d4af1fcb60c5ea89483c933188f9e1c52bf42ec44a7ff9c5608e502b57fc89",
+    "target_sha256": "68d4af1fcb60c5ea89483c933188f9e1c52bf42ec44a7ff9c5608e502b57fc89",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/画像JSON导入格式.md",
+    "target": "docs/experience-originals/android/docs/画像JSON导入格式.md",
+    "source_sha256": "8a595fc3a8ff2a2f4b8a0ed403a39b4c228fb94b1d077ccce335d56ad769e3d5",
+    "target_sha256": "8a595fc3a8ff2a2f4b8a0ed403a39b4c228fb94b1d077ccce335d56ad769e3d5",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/CUSTOMER-IDENTIFICATION-V34.md",
+    "target": "docs/experience-originals/android/docs/CUSTOMER-IDENTIFICATION-V34.md",
+    "source_sha256": "fd98198aeeaa08b3cb192c4e60528b6daaf71db05286d0be8187b50ce895dfd8",
+    "target_sha256": "fd98198aeeaa08b3cb192c4e60528b6daaf71db05286d0be8187b50ce895dfd8",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/NATIVE-UI-V31-IMPLEMENTATION.md",
+    "target": "docs/experience-originals/android/docs/NATIVE-UI-V31-IMPLEMENTATION.md",
+    "source_sha256": "6a43c5e16d43d8d7f4eb0a5e949fa732f8bced2dfea3c899c69a876203f89e57",
+    "target_sha256": "6a43c5e16d43d8d7f4eb0a5e949fa732f8bced2dfea3c899c69a876203f89e57",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/NATIVE-UI-V32-TRANSITION.md",
+    "target": "docs/experience-originals/android/docs/NATIVE-UI-V32-TRANSITION.md",
+    "source_sha256": "8f66312c18d7fef3a6d0d1eb5f0ea18fc57ad42ae2c074158a475531e300dac5",
+    "target_sha256": "8f66312c18d7fef3a6d0d1eb5f0ea18fc57ad42ae2c074158a475531e300dac5",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/NATIVE-UI-V33-RESTORE.md",
+    "target": "docs/experience-originals/android/docs/NATIVE-UI-V33-RESTORE.md",
+    "source_sha256": "110b1f27d0575fdeb3a61ee074c823ef9907b3d7b4007c9e8999a54d6638f9c6",
+    "target_sha256": "110b1f27d0575fdeb3a61ee074c823ef9907b3d7b4007c9e8999a54d6638f9c6",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/NATIVE-UI-V36-THEME-DRAG.md",
+    "target": "docs/experience-originals/android/docs/NATIVE-UI-V36-THEME-DRAG.md",
+    "source_sha256": "06d4c7791c2c95cbd087c09ab66505db410164eb3d14f46d6abe7724e2091e8a",
+    "target_sha256": "06d4c7791c2c95cbd087c09ab66505db410164eb3d14f46d6abe7724e2091e8a",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/docs/SOURCE-CHECKPOINT-20261104.md",
+    "target": "docs/experience-originals/android/docs/SOURCE-CHECKPOINT-20261104.md",
+    "source_sha256": "4d1dbd2188a0ac796ce1bd20020ea0655d99453d330a2705edf23fc2ec8048bb",
+    "target_sha256": "4d1dbd2188a0ac796ce1bd20020ea0655d99453d330a2705edf23fc2ec8048bb",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/.agent/业务数据接入与交互决定-20261012.md",
+    "target": "docs/experience-originals/android/.agent/业务数据接入与交互决定-20261012.md",
+    "source_sha256": "212508d1b9d4f9c785034f7d8dcd171f0f2e55f0de9aa5cd59816f1ad3d7bd61",
+    "target_sha256": "212508d1b9d4f9c785034f7d8dcd171f0f2e55f0de9aa5cd59816f1ad3d7bd61",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/.agent/plan.md",
+    "target": "docs/experience-originals/android/.agent/plan.md",
+    "source_sha256": "345f8b61a7e49269bfe866e741727812d6be339952183fa0cbdebb66f844039f",
+    "target_sha256": "345f8b61a7e49269bfe866e741727812d6be339952183fa0cbdebb66f844039f",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/.agent/sasalele_dev_plan_stage5.md",
+    "target": "docs/experience-originals/android/.agent/sasalele_dev_plan_stage5.md",
+    "source_sha256": "05facd8c2c29e6331d1e6f5957e5fcee7ee2a366a3e17ed9396b461ab8f6aaf0",
+    "target_sha256": "05facd8c2c29e6331d1e6f5957e5fcee7ee2a366a3e17ed9396b461ab8f6aaf0",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/.agent/stage5-review-codex.md",
+    "target": "docs/experience-originals/android/.agent/stage5-review-codex.md",
+    "source_sha256": "1418744d17fde51473bf1ccf556016644de6de70dbc0ccb0da1587c2379f6684",
+    "target_sha256": "1418744d17fde51473bf1ccf556016644de6de70dbc0ccb0da1587c2379f6684",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  },
+  {
+    "source": "D:/Dev/AndroidProjects/SASALELE/private/screen-protection-audit-20261015/核查记录.md",
+    "target": "docs/experience-originals/android/private/screen-protection-audit-20261015/核查记录.md",
+    "source_sha256": "224d812f58bc515c92a316d02dcc813358b5c1736eb7ed71661379ef8cffdf00",
+    "target_sha256": "224d812f58bc515c92a316d02dcc813358b5c1736eb7ed71661379ef8cffdf00",
+    "mode": "full-original",
+    "reason": "未发现实际客户正文或秘密值，保留完整原文。"
+  }
+]

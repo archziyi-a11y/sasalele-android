@@ -4,6 +4,10 @@ Android sales-assistance client with a floating workspace, title-region OCR,
 customer identity selection, profile views, reply drafting, polishing, sales
 guidance, follow-ups and shared materials. Built with Kotlin and Jetpack Compose.
 
+## 开发经验与阶段记录
+
+[完整经验索引](docs/experience-originals/README.md)：Android 阶段交付、真机排查、UI 决策、关联业务实现与个人复盘。原文归档与早期删改导出版分开保存；逐篇完整性和必要脱敏见各目录 manifest.json。
+
 ## APK 下载
 
 **最新已上传 APK：[v37 · 1.12-knowledge-trial](https://github.com/archziyi-a11y/sasalele-android/releases/download/historical-apks-20261113/sasalele-v37.apk)**（原件日期：2026-11-03）。
