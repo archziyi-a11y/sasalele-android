@@ -26,7 +26,7 @@ production acceptance tests. See each test's fixture endpoint before running it.
 
 ## Source and evidence
 
-This is a source-only publication snapshot, not an exact reconstruction of a
+This source snapshot is not an exact reconstruction of a
 historically delivered APK. The historical checkpoint is documented in
 `docs/SOURCE-CHECKPOINT-20261104.md`. Historical test results in documents describe
 their original scope, not a fresh verification of this export.
@@ -34,7 +34,13 @@ their original scope, not a fresh verification of this export.
 Included: application source, build definitions, synthetic tests, application
 icons, reviewed technical notes, and reviewed design and synthetic UI media.
 The media inventory and original file hashes are in `docs/DESIGN-MEDIA-SHA256.csv`.
-Excluded: credentials, signing keys, APKs pending separate review,
+Reviewed historical APKs are preserved separately in the
+[historical development builds release](https://github.com/archziyi-a11y/sasalele-android/releases/tag/historical-apks-20261113).
+Its manifest records original names, actual versions and file hashes; duplicate
+file contents share a release asset. Historical builds are not deployment recommendations.
+
+Excluded: credentials, signing keys, early probe binaries containing real account
+or customer identity data,
 customer profiles, unreviewed recordings, logs, business materials and private
 deployment configuration. Original development history and excluded material are
 retained locally, not embedded in this publication history.

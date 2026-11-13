@@ -1,0 +1,212 @@
+[
+  {
+    "original_name": "SASALELE-1.10-ui-preview-v31.apk",
+    "sha256": "00980ea8456a16197e50607798e15e2b073ca9232787e50fd772c6ea0dcf1021",
+    "versionCode": 31,
+    "versionName": "1.10-ui-preview",
+    "release_asset": "sasalele-v31.apk"
+  },
+  {
+    "original_name": "SASALELE-1.10.1-window-transition-v32.apk",
+    "sha256": "cda66bf9ad9a48ff740a544504901434479e61e7f359c4a438735d721993472c",
+    "versionCode": 32,
+    "versionName": "1.10.1-window-transition",
+    "release_asset": "sasalele-v32.apk"
+  },
+  {
+    "original_name": "SASALELE-1.10.2-toolbar-restore-v33.apk",
+    "sha256": "634c4d87c2627b85c581f7260bb2f5e5a4e75edfbe07041685528161b2fcc189",
+    "versionCode": 33,
+    "versionName": "1.10.2-toolbar-restore",
+    "release_asset": "sasalele-v33.apk"
+  },
+  {
+    "original_name": "SASALELE-1.11-customer-flow-v34.apk",
+    "sha256": "dc44727dce76b62cfc2e0fe27e4f687c40e03a58db5565cda28f60a60eec19f8",
+    "versionCode": 34,
+    "versionName": "1.11-customer-flow",
+    "release_asset": "sasalele-v34.apk"
+  },
+  {
+    "original_name": "SASALELE-1.11-customer-flow-v35.apk",
+    "sha256": "eabe06e4722f33fa2f02584d282a5f979b66feab0365f7385b5d0e32be596d13",
+    "versionCode": 35,
+    "versionName": "1.11-customer-flow",
+    "release_asset": "sasalele-v35.apk"
+  },
+  {
+    "original_name": "SASALELE-1.11.1-theme-drag-v36.apk",
+    "sha256": "2d14343f18fe2640b683dbb148cf353650e746402709cab31d030964feb05157",
+    "versionCode": 36,
+    "versionName": "1.11.1-theme-drag",
+    "release_asset": "sasalele-v36.apk"
+  },
+  {
+    "original_name": "SASALELE-1.12-knowledge-trial-v37.apk",
+    "sha256": "40aaddc991ccb4fc20fe9ba7798747fb19152bd0d336d16fa7e47708508e56a7",
+    "versionCode": 37,
+    "versionName": "1.12-knowledge-trial",
+    "release_asset": "sasalele-v37.apk"
+  },
+  {
+    "original_name": "SASALELE-1.2-ui-v12.apk",
+    "sha256": "84d8de98b4bb3cb37fdcb368eaedce21cca4d5916993bf0c3f8458552d1e3102",
+    "versionCode": 12,
+    "versionName": "1.2-ui",
+    "release_asset": "sasalele-v12.apk"
+  },
+  {
+    "original_name": "SASALELE-1.2.1-ui-v13.apk",
+    "sha256": "13251e65596f9f98aa2df4862adac2f80688408bee78746357f814166939c207",
+    "versionCode": 13,
+    "versionName": "1.2.1-ui",
+    "release_asset": "sasalele-v13.apk"
+  },
+  {
+    "original_name": "SASALELE-1.3-guidance-v14.apk",
+    "sha256": "f6fed0cae0160c5be950b3cd15f719c20315c71335c995822bbff6114338eb7e",
+    "versionCode": 14,
+    "versionName": "1.3-guidance",
+    "release_asset": "sasalele-v14.apk"
+  },
+  {
+    "original_name": "SASALELE-1.3.1-guidance-v15.apk",
+    "sha256": "54284e9d0346f37313c028d9c365bef4b823f8af64de97535254b9765d0a7f79",
+    "versionCode": 15,
+    "versionName": "1.3.1-guidance",
+    "release_asset": "sasalele-v15.apk"
+  },
+  {
+    "original_name": "SASALELE-1.3.2-icons-v16.apk",
+    "sha256": "ceafc86d94b996a33fcd58822a34d95da7ffe1962395050a84c0d6f73982b255",
+    "versionCode": 16,
+    "versionName": "1.3.2-icons",
+    "release_asset": "sasalele-v16.apk"
+  },
+  {
+    "original_name": "SASALELE-1.4-work-account-v17.apk",
+    "sha256": "57bfcebe2d8cc7737f98a75cd4252d97960aa15d165d428c3c40d9838ceae807",
+    "versionCode": 17,
+    "versionName": "1.4-work-account",
+    "release_asset": "sasalele-v17.apk"
+  },
+  {
+    "original_name": "SASALELE-1.4.1-work-account-v18.apk",
+    "sha256": "08e24c0203b02f5fef67161c541a46e08c1ed3ebcbc0e173fdd30fa8e9d474c2",
+    "versionCode": 18,
+    "versionName": "1.4.1-work-account",
+    "release_asset": "sasalele-v18.apk"
+  },
+  {
+    "original_name": "SASALELE-1.4.2-work-account-v19.apk",
+    "sha256": "ffb90fb686587f00a176822522571ea9e422d7e23809aa93cbc7763e1ca0b8df",
+    "versionCode": 19,
+    "versionName": "1.4.2-work-account",
+    "release_asset": "sasalele-v19.apk"
+  },
+  {
+    "original_name": "SASALELE-1.5-followups-v20.apk",
+    "sha256": "8aa7ecba82658eb153ae34fc95c4faf5f246bfa3f1e0bd8c0fe206b4c45f00a1",
+    "versionCode": 20,
+    "versionName": "1.5-followups",
+    "release_asset": "sasalele-v20.apk"
+  },
+  {
+    "original_name": "SASALELE-1.5.1-followups-v21.apk",
+    "sha256": "04724d9b990fec61570ca7d901519f027597e1e3e2403c6bfea0394561872da8",
+    "versionCode": 21,
+    "versionName": "1.5.1-followups",
+    "release_asset": "sasalele-v21.apk"
+  },
+  {
+    "original_name": "SASALELE-1.6-followups-v22.apk",
+    "sha256": "4cc60d608aed8b629e272325b57926290b3152e9c19a025209f99fdf9d2bf8e1",
+    "versionCode": 22,
+    "versionName": "1.6-followups",
+    "release_asset": "sasalele-v22.apk"
+  },
+  {
+    "original_name": "SASALELE-1.6.1-materials-v23.apk",
+    "sha256": "85d6831656ff15a5e7f542c872989eced1809fd6b1db6e57fb470517b433afa6",
+    "versionCode": 23,
+    "versionName": "1.6.1-materials",
+    "release_asset": "sasalele-v23.apk"
+  },
+  {
+    "original_name": "SASALELE-1.6.2-materials-v24.apk",
+    "sha256": "98c252cb8bcb524fa16e8d229e3fb380f547fa0ae37f090420ed7dedbf236b02",
+    "versionCode": 24,
+    "versionName": "1.6.2-materials",
+    "release_asset": "sasalele-v24.apk"
+  },
+  {
+    "original_name": "SASALELE-1.6.3-materials-v25.apk",
+    "sha256": "715ddc0534ce3fd08f8dfcd8d674b7653765aa5bd28e57a090c5d575339ee29a",
+    "versionCode": 25,
+    "versionName": "1.6.3-materials",
+    "release_asset": "sasalele-v25.apk"
+  },
+  {
+    "original_name": "SASALELE-1.7-ui-preview-v26.apk",
+    "sha256": "e99b4a3e378b9b7388dc68da2c27e84cdf6c068a41fc567e8cba9845073cd927",
+    "versionCode": 26,
+    "versionName": "1.7-ui-preview",
+    "release_asset": "sasalele-v26.apk"
+  },
+  {
+    "original_name": "SASALELE-1.8-team-materials-v27.apk",
+    "sha256": "2b7fbe076eb99decd5b042b40b676fe7e0d75317e2157868c96ae83f7cc45e49",
+    "versionCode": 27,
+    "versionName": "1.8-team-materials",
+    "release_asset": "sasalele-v27.apk"
+  },
+  {
+    "original_name": "SASALELE-1.8.1-material-titles-v28.apk",
+    "sha256": "c360c3c63c2d14d240870cca183d286813b0eb1cfe733e923d7778a8058b4f6d",
+    "versionCode": 28,
+    "versionName": "1.8.1-material-titles",
+    "release_asset": "sasalele-v28.apk"
+  },
+  {
+    "original_name": "SASALELE-1.9-material-aliases-v29.apk",
+    "sha256": "a8666d6b48be172e276e654ea65ec781ed718fe92bee384a860970bcb253d3f6",
+    "versionCode": 29,
+    "versionName": "1.9-material-aliases",
+    "release_asset": "sasalele-v29.apk"
+  },
+  {
+    "original_name": "SASALELE-1.9.1-material-interactions-v30.apk",
+    "sha256": "b89ea6d13482375fc708a044f1467fe6e007bf501167389e422d1587bc7fbef6",
+    "versionCode": 30,
+    "versionName": "1.9.1-material-interactions",
+    "release_asset": "sasalele-v30.apk"
+  },
+  {
+    "original_name": "SASALELE-1.9.1-设计优化-v30.apk",
+    "sha256": "b89ea6d13482375fc708a044f1467fe6e007bf501167389e422d1587bc7fbef6",
+    "versionCode": 30,
+    "versionName": "1.9.1-material-interactions",
+    "release_asset": "sasalele-v30.apk"
+  },
+  {
+    "original_name": "app-debug-androidTest.apk",
+    "sha256": "e81e068eb6199be82d8e2773d7343ee76d9378e6d00cde1cfc789036dbffff53",
+    "versionCode": null,
+    "versionName": null,
+    "release_asset": "baseline-capture-test.apk"
+  },
+  {
+    "original_name": "app-debug-androidTest.apk",
+    "sha256": "3080517710ce0520a92ddd895835a997a27cafff8f261cbd7e431541c83f9146",
+    "versionCode": null,
+    "versionName": null,
+    "release_asset": "baseline-stage5-test.apk"
+  },
+  {
+    "original_name": "app-debug.apk",
+    "sha256": "4071c386b39b22b044738b9d83db761d6f98c250d5bb225e44d14bb63c95b5d9",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "release_asset": "baseline-stage5-main.apk"
+  }
+]
