@@ -122,37 +122,45 @@
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/AcquisitionUi.kt",
       "historical_sha256": "6b2e470e4e66886bbc934e6a08f5a5de666241bd546239dabaed497085f8f3e3",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/AcquisitionUi.kt",
+      "destination_sha256": "6b2e470e4e66886bbc934e6a08f5a5de666241bd546239dabaed497085f8f3e3",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/CapturePermissionActivity.kt",
       "historical_sha256": "a38ed655f6ba1ec2395746a8e682dcf1a02adea9ac6ab638e5e803dde9282e8e",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/CapturePermissionActivity.kt",
+      "destination_sha256": "a38ed655f6ba1ec2395746a8e682dcf1a02adea9ac6ab638e5e803dde9282e8e",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/FloatingWindowContent.kt",
       "historical_sha256": "e245e412893c01e187dcd566146b9c263a7e31e6041dc25d08eed09f5c8552c7",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/FloatingWindowContent.kt",
+      "destination_sha256": "e245e412893c01e187dcd566146b9c263a7e31e6041dc25d08eed09f5c8552c7",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/FloatingWindowService.kt",
       "historical_sha256": "6213ac07887093c5391b40b454de9cab87e31cb6ea810dccbea4dd2e97b36c0c",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/FloatingWindowService.kt",
+      "destination_sha256": "6213ac07887093c5391b40b454de9cab87e31cb6ea810dccbea4dd2e97b36c0c",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
@@ -170,10 +178,12 @@
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/MainActivity.kt",
       "historical_sha256": "371e33cff7144bc177bdbf8f937c1c5a3218ba92fa6e4072d79dd4112edfb187",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/MainActivity.kt",
+      "destination_sha256": "371e33cff7144bc177bdbf8f937c1c5a3218ba92fa6e4072d79dd4112edfb187",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
@@ -203,10 +213,12 @@
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/ScreenCaptureService.kt",
       "historical_sha256": "0698a397fcbb26e772f1587a099ef3f37f95630d9857511b5b33c4851390b721",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/ScreenCaptureService.kt",
+      "destination_sha256": "0698a397fcbb26e772f1587a099ef3f37f95630d9857511b5b33c4851390b721",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
@@ -226,10 +238,12 @@
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/data/CaptureSession.kt",
       "historical_sha256": "169e7a62e30b5b04d1551a12054b77be9875b25903f848a3250b77788066ea35",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/CaptureSession.kt",
+      "destination_sha256": "169e7a62e30b5b04d1551a12054b77be9875b25903f848a3250b77788066ea35",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
@@ -273,10 +287,12 @@
       "kind": "source",
       "source_path": "app/src/main/java/com/example/sasalele/data/ImageTextRecognizer.kt",
       "historical_sha256": "b163c0493eb65e360b033e934684784966bfe5d89b3ac00a3a6767f5eded475f",
-      "destination_path": null,
-      "destination_sha256": null,
-      "disposition": "not-found",
-      "source_roots": []
+      "destination_path": "history-supplement/source/app/src/main/java/com/example/sasalele/data/ImageTextRecognizer.kt",
+      "destination_sha256": "b163c0493eb65e360b033e934684784966bfe5d89b3ac00a3a6767f5eded475f",
+      "disposition": "preserved-exact-historical-source",
+      "source_roots": [
+        "SASALELE-business-20261013/android"
+      ]
     },
     {
       "kind": "source",
