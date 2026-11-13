@@ -32,7 +32,9 @@ historically delivered APK. The historical checkpoint is documented in
 their original scope, not a fresh verification of this export.
 
 Included: application source, build definitions, synthetic tests, application
-icons and reviewed technical notes. Excluded: credentials, signing keys, APKs,
-customer profiles, real-device screenshots, logs, business materials and private
+icons, reviewed technical notes, and reviewed design and synthetic UI media.
+The media inventory and original file hashes are in `docs/DESIGN-MEDIA-SHA256.csv`.
+Excluded: credentials, signing keys, APKs pending separate review,
+customer profiles, unreviewed recordings, logs, business materials and private
 deployment configuration. Original development history and excluded material are
 retained locally, not embedded in this publication history.
