@@ -1,0 +1,8 @@
+{
+  "source": "D:\\Dev\\AndroidProjects\\SASALELE\\private\\screen-protection-audit-20261015\\核查记录.md",
+  "source_sha256": "224d812f58bc515c92a316d02dcc813358b5c1736eb7ed71661379ef8cffdf00",
+  "target": "D:\\Dev\\publish-staging\\sasalele-android\\docs\\experience-originals\\screen-protection-audit-20261015\\核查记录.md",
+  "published_sha256": "02597e2713487207e6debd54c4331fae7019dc91bdc3c07af7a9c83ebb8a2492",
+  "reason": "只替换真实设备序列号；设备型号、系统版本及保护配置检测结论保留。",
+  "value": "只读排查、保护配置与当次拦截证据分离、观测时间边界和联合验证条件。"
+}
